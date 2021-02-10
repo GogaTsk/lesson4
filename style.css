@@ -20,7 +20,7 @@ h1 {
 	font-size: 30;
 	border: 5px solid #4AC20E;
 	height: 56px;
-	width: 1303px;
+	width: 1260px;
 	border-radius: 10px;
 	padding: 15px 0px 5px 10px;
 }
@@ -32,7 +32,15 @@ section{
 .fotosection1{
 	margin-right: 80px;
 }
-p{
+.pedit{
 	color: #3D58A6;
 	font-size: 22;
+	margin-top: 50px;
+}
+.plink {
+	color: #3D58A6;
+	font-size: 22;
+	margin-top: 40;
+	margin-bottom: 80;
+	border-bottom:5px solid #3D58A6;
 }
