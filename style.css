@@ -1,0 +1,17 @@
+li {
+	list-style-type: none;
+	margin-bottom: 9px;
+}
+
+.maingreen {
+	color: #4AC20E;
+	font-size: 22px;
+}
+
+a {
+	text-decoration: none;
+}
+.navblue {
+	color: #3D58A6;
+	font-size: 22px;
+}
